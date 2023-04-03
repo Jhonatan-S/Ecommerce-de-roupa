@@ -248,9 +248,3 @@ section h1{
     font-weight: 600;
     transition: all .35s ease;
 }
-
-.last-text{
-    text-align: center;
-    background-color: #555;
-    color: #fff;
-}
